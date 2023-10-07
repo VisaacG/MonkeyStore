@@ -1,0 +1,25 @@
+@import "./stilo.css";
+@import "./cssfile.css";
+@import "./footer.css";
+@import "./register.css";
+@import './singup.css';
+:root{
+    --font: 'Figtree', sans-serif;
+}
+
+*{
+    margin: 0;
+    padding:0;
+    font-family: 'Open Sans';
+}
+body{
+    background-color: #DFA878;
+}
+
+.section-banner{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    padding-top: 4rem;
+}
