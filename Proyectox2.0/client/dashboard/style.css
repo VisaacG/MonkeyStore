@@ -5,6 +5,8 @@
 @import './singup.css';
 @import "./intercepciones.css";
 @import "./main.css";
+@import "./info.css";
+@import "./sobreN.css";
 
 :root{
     --font: 'Figtree', sans-serif;
@@ -17,7 +19,7 @@
     padding:0;
 }
 body{
-    background-color: #DFA878;
+    background-color: #f2f2f2;
 }
 
 .section-banner{
